@@ -1,0 +1,1 @@
+# plugins-ot-flatsome-vertical-menu
